@@ -1,13 +1,13 @@
 ---
 # Display name
-title: 吳健雄
+title: Divyank Rahoria
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: Divyank Rahoria
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Divyank
+last_name: Rahoria
 
 # Status emoji
 status:
@@ -36,8 +36,8 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
+    - course: MS in Computer Science (AI Major)
+      institution: University of California - San Diego
       year: 2012
     - course: MEng in Artificial Intelligence
       institution: Massachusetts Institute of Technology
