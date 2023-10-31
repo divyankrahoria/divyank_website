@@ -20,17 +20,21 @@ superuser: true
 role: Data Scientist
 
 # Organizations/Affiliations to show in About widget
-organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+# organizations:
+#   - name: Stanford University
+#     url: https://www.stanford.edu/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 # Interests to show in About widget
 interests:
+  - Machine Learning Algorithms
+  - Data Analytics
+  - Prediction Algorithms
+  - Data Clustering
   - Artificial Intelligence
-  - Computational Linguistics
+  - Data Visualization
   - Information Retrieval
 
 # Education to show in About widget
@@ -39,8 +43,8 @@ education:
     - course: MS in Computer Science (AI Major)
       institution: University of California - San Diego
     #   year: 2012
-    # - course: MEng in Artificial Intelligence
-    #   institution: Massachusetts Institute of Technology
+    - course: Bachelor of Technology
+      institution: Vellore Institute of Technology (VIT), India
     #   year: 2009
     # - course: BSc in Artificial Intelligence
     #   institution: Massachusetts Institute of Technology
@@ -120,5 +124,5 @@ social:
 highlight_name: true
 ---
 
-Accomplished data sciencist with over 4 years experience driving business impact through advanced analytics, machine learning, and statistical modeling. Recognized for ability to communicate technical insights through compelling data stories and clear strategic recommendations.
+Accomplished data scienist with over 4 years experience driving business impact through advanced analytics, machine learning, and statistical modeling. Recognized for ability to communicate technical insights through compelling data stories and clear strategic recommendations.
 {style="text-align: justify;"}
