@@ -105,7 +105,7 @@ social:
   #   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/divyankrahoria
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/divyank-rahoria
@@ -120,5 +120,5 @@ social:
 highlight_name: true
 ---
 
-Divyank is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Accomplished data sciencist with over 4 years experience driving business impact through advanced analytics, machine learning, and statistical modeling. Recognized for ability to communicate technical insights through compelling data stories and clear strategic recommendations.
 {style="text-align: justify;"}
