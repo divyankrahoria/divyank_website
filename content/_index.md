@@ -62,12 +62,12 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: CEO
-          company: GenCoin
-          company_url: ''
-          company_logo: org-gc
-          location: California
-          date_start: '2021-01-01'
+        - title: Data Scientist
+          company: Newegg
+          #company_url: 'www.newegg.com'
+          #company_logo: org-gc
+          #location: California
+          date_start: '2021-06'
           date_end: ''
           description: |2-
               Responsibilities include:
@@ -75,14 +75,38 @@ sections:
               * Analysing
               * Modelling
               * Deploying
-        - title: Professor of Semiconductor Physics
-          company: University X
-          company_url: ''
-          company_logo: org-x
-          location: California
-          date_start: '2016-01-01'
-          date_end: '2020-12-31'
-          description: Taught electronic engineering and researched semiconductor physics.
+        - title: Data Scientist
+          company: Lavit Pure Agro
+          #company_url: ''
+          #company_logo: org-x
+          #location: California
+          date_start: '2021-01'
+          date_end: '2021-05'
+          #description: Taught electronic engineering and researched semiconductor physics.
+        - title: Graduate Researcher
+          company: University of California, San Diego
+          #company_url: ''
+          #company_logo: org-x
+          #location: California
+          date_start: '2020-03'
+          date_end: '2020-06'
+          #description: Taught electronic engineering and researched semiconductor physics.
+        - title: Graduate Researcher
+          company: University of California, San Diego
+          #company_url: ''
+          #company_logo: org-x
+          #location: California
+          date_start: '2019-03'
+          date_end: '2019-06'
+          #description: Taught electronic engineering and researched semiconductor physics.
+        - title: Data Analyst/Scientist
+          company: PWD India
+          #company_url: ''
+          #company_logo: org-x
+          #location: California
+          date_start: '2017-07'
+          date_end: '2018-08'
+          #description: Taught electronic engineering and researched semiconductor physics.
     design:
       columns: '2'
   - block: accomplishments
@@ -98,30 +122,30 @@ sections:
       #   Leave other parameters empty if not required.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - certificate_url: https://www.coursera.org
+        - certificate_url: https://coursera.org/verify/XS6CB2HC3B2K
           date_end: ''
-          date_start: '2021-01-25'
+          date_start: '2023-01-01'
           description: ''
-          organization: Coursera
-          organization_url: https://www.coursera.org
-          title: Neural Networks and Deep Learning
-          url: ''
-        - certificate_url: https://www.edx.org
+          organization: Google
+          #organization_url: https://www.coursera.org
+          title: Google Cloud Big Data and Machine Learning
+          #url: ''
+        - certificate_url: http://coursera.org/verify/YZJWP3964WV8
           date_end: ''
-          date_start: '2021-01-01'
-          description: Formulated informed blockchain models, hypotheses, and use cases.
-          organization: edX
-          organization_url: https://www.edx.org
+          date_start: '2019-07-01'
+          #description: Formulated informed blockchain models, hypotheses, and use cases.
+          organization: IBM | Coursera
+          #organization_url: https://www.edx.org
           title: Blockchain Fundamentals
-          url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-        - certificate_url: https://www.datacamp.com
-          date_end: '2020-12-21'
-          date_start: '2020-07-01'
-          description: ''
-          organization: DataCamp
-          organization_url: https://www.datacamp.com
-          title: 'Object-Oriented Programming in R'
-          url: ''
+          #url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
+        - #certificate_url: https://www.datacamp.com
+          #date_end: '2020-12-21'
+          #date_start: '2020-07-01'
+          #description: ''
+          #organization: DataCamp
+          #organization_url: https://www.datacamp.com
+          #title: 'Object-Oriented Programming in R'
+          #url: ''
     design:
       columns: '2'
   - block: collection
