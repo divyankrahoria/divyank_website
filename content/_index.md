@@ -69,12 +69,12 @@ sections:
           #location: California
           date_start: '2021-06'
           date_end: ''
-          description: |2-
-              Responsibilities include:
-
-              * Analysing
-              * Modelling
-              * Deploying
+          #description: |2-
+           #   Responsibilities include:
+#
+            #  * Analysing
+            #  * Modelling
+            #  * Deploying
         - title: Data Scientist
           company: Lavit Pure Agro
           #company_url: ''
