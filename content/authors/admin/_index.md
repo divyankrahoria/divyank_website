@@ -42,10 +42,10 @@ education:
   courses:
     - course: MS in Computer Science (AI Major)
       institution: University of California - San Diego
-    #   year: 2012
+      year: 2020
     - course: Bachelor of Technology
       institution: Vellore Institute of Technology (VIT), India
-    #   year: 2009
+      year: 2017
     # - course: BSc in Artificial Intelligence
     #   institution: Massachusetts Institute of Technology
     #   year: 2008
